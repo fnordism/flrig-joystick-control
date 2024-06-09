@@ -26,7 +26,7 @@ python joystick_control.py -start <start_frequency> -end <end_frequency> -step <
 Example: python joystick_control.py -start 14000000 -end 14350000 -step 1000
 
 
-License
+License:
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
