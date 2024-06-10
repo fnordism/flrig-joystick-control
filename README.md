@@ -12,7 +12,7 @@ Installation
 Ensure you have Python installed on your system.
 
 1. Install the required libraries:
-pip install pygame numpy xmlrpc
+pip install pygame xmlrpc
 
 2. Download or clone this repository.
 glt clone https://github.com/fnordism/flrig-joystick-control.git
