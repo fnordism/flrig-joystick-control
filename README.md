@@ -23,7 +23,7 @@ Connect your joystick to your computer.
 Start the script with the necessary frequency parameters:
 
 python joystick_control.py -start <start_frequency> -end <end_frequency> -step <frequency_step>
-Example: python joystick_control.py -start 14000000 -end 14350000 -step 1000
+Example: python flrig-joystick-control.py -start 14000000 -end 14350000 -step 1000
 
 
 License:
