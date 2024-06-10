@@ -15,7 +15,7 @@ Ensure you have Python installed on your system.
 pip install pygame numpy xmlrpc
 
 2. Download or clone this repository.
-glt clone
+glt clone https://github.com/fnordism/flrig-joystick-control.git
 
 3. Usage
 Connect your joystick to your computer.
